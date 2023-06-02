@@ -1,0 +1,40 @@
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].rules[0].oneOf[0].use[2]!./src/styles.css?ngGlobalStyle ***!
+  \**********************************************************************************************************************************************************************************************************************/
+.navbar {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  background-color: blue;
+}
+
+.navbar .nav-link {
+  color: #333;
+}
+
+.navbar .nav-link.employee-list {
+  color: red;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(68, 0, 255);
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.text-center {
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
