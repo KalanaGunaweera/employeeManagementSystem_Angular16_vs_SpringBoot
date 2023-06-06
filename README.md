@@ -1,6 +1,6 @@
 # Employee Management System (EMS)
 
-#### Video Demo: [https://www.youtube.com/shorts/9Wrut7QtDZ8]
+#### Video Demo: <https://www.youtube.com/shorts/9Wrut7QtDZ8>
 
 #### Description:
 The Employee Management System (EMS) is a comprehensive CRUD (Create, Read, Update, Delete) application designed to efficiently manage employee-related operations within a small company. It provides a user-friendly interface for seamless employee record management. The EMS is built using Angular 16 as the frontend framework and Spring Boot as the backend framework.
