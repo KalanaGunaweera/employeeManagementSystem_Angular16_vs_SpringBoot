@@ -1,9 +1,12 @@
 # Employee Management System (EMS)
 
-#### Video Demo: <https://www.youtube.com/shorts/9Wrut7QtDZ8>
-
 #### Description:
 The Employee Management System (EMS) is a comprehensive CRUD (Create, Read, Update, Delete) application designed to efficiently manage employee-related operations within a small company. It provides a user-friendly interface for seamless employee record management. The EMS is built using Angular 16 as the frontend framework and Spring Boot as the backend framework.
+
+<img src="https://github.com/learn-spring-boot-and-spring-security/EmployeeManagementSystem_Angular16_and_SpringBoot/blob/main/SnipShots_UI/Add_Employee_UI.PNG" width="600">
+<img src="https://github.com/learn-spring-boot-and-spring-security/EmployeeManagementSystem_Angular16_and_SpringBoot/blob/main/SnipShots_UI/Update_Employee_UI.PNG" width="600">
+<img src="https://github.com/learn-spring-boot-and-spring-security/EmployeeManagementSystem_Angular16_and_SpringBoot/blob/main/SnipShots_UI/View_EmployeeList_UI.PNG" width="600">
+<img src="https://github.com/learn-spring-boot-and-spring-security/EmployeeManagementSystem_Angular16_and_SpringBoot/blob/main/SnipShots_UI/View_Employee_UI.PNG" width="600">
 
 The project consists of the following files:
 
@@ -21,7 +24,7 @@ The EMS project aims to streamline employee management operations for small comp
 
 In addition to the core features mentioned above, the EMS project also includes authentication and authorization mechanisms to secure access to employee data. It implements role-based access control, allowing administrators to manage user roles and permissions effectively.
 
-We allocated significant time and effort to develop a robust and well-documented solution. This README.md file serves as a guide to understand the project's structure, functionalities, and design choices. For a more detailed explanation of the codebase, please refer to the comments and documentation provided within the source code files.
+Contributions are welcome.
 
-Please ensure that your README.md file now meets the requirements stated in the project question and contains sufficient detail to explain your project thoroughly.
+
 
